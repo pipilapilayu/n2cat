@@ -1,3 +1,9 @@
 /.idea
+#go-cqhttp 用户配置文件
 /accounts/1491074867/
 /accounts/binary/accounts.pkl
+
+#图片等资源
+/data/
+#GenshinUID的配置数据库
+/ID_DATA.db

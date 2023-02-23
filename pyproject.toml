@@ -9,6 +9,6 @@ requires-python = ">=3.8, <4.0"
 adapters = [
     { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" }
 ]
-plugins = ["nonebot_plugin_gocqhttp", "nonebot_plugin_guild_patch"]
+plugins = ["nonebot_plugin_gocqhttp", "nonebot_plugin_guild_patch", "GenshinUID", "nonebot_plugin_manager"]
 plugin_dirs = []
 builtin_plugins = ["echo"]
